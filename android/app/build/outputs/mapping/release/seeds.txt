@@ -1,0 +1,1612 @@
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.core.app.CoreComponentFactory
+android.support.v4.media.session.PlaybackStateCompat$CustomAction
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+com.dexterous.flutterlocalnotifications.models.Time
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer
+androidx.lifecycle.ProcessLifecycleInitializer
+io.flutter.view.FlutterCallbackInformation
+android.support.v4.app.RemoteActionCompatParcelizer
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation
+android.support.v4.media.session.MediaSessionCompat$QueueItem
+androidx.window.extensions.core.util.function.Function
+io.flutter.view.TextureRegistry$SurfaceTextureEntry
+androidx.media.AudioAttributesImplApi26
+io.flutter.view.AccessibilityViewEmbedder
+androidx.core.graphics.drawable.IconCompat
+androidx.annotation.Keep
+androidx.window.extensions.core.util.function.Consumer
+com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+android.support.v4.media.MediaBrowserCompat$SearchResultReceiver
+com.dexterous.flutterlocalnotifications.models.IconSource
+io.flutter.embedding.engine.FlutterJNI
+androidx.media.AudioAttributesImplBase
+android.support.v4.media.RatingCompat
+kotlinx.coroutines.android.AndroidDispatcherFactory
+io.flutter.plugin.platform.SingleViewPresentation
+com.dexterous.flutterlocalnotifications.models.BitmapSource
+android.support.v4.media.session.MediaSessionCompat$Token
+androidx.versionedparcelable.ParcelImpl
+io.flutter.plugins.GeneratedPluginRegistrant
+com.dexterous.flutterlocalnotifications.models.NotificationAction
+android.support.v4.media.MediaBrowserCompat$ItemReceiver
+com.dexterous.flutterlocalnotifications.models.RepeatInterval
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction
+androidx.profileinstaller.ProfileInstallerInitializer
+androidx.startup.InitializationProvider
+io.flutter.view.TextureRegistry$ImageConsumer
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements
+android.support.v4.media.AudioAttributesImplApi21Parcelizer
+android.support.v4.graphics.drawable.IconCompatParcelizer
+android.support.v4.media.session.MediaControllerCompat$MediaControllerImplApi21$ExtraBinderRequestResultReceiver
+com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver
+androidx.media.AudioAttributesImplApi21Parcelizer
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry
+io.flutter.view.TextureRegistry$GLTextureConsumer
+android.support.v4.media.MediaDescriptionCompat
+io.flutter.embedding.engine.FlutterOverlaySurface
+com.dexterous.flutterlocalnotifications.models.MessageDetails
+io.flutter.plugins.pathprovider.PathProviderPlugin
+io.flutter.plugin.text.ProcessTextPlugin
+com.dexterous.flutterlocalnotifications.models.PersonDetails
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+androidx.media.AudioAttributesImplBaseParcelizer
+com.dexterous.flutterlocalnotifications.utils.StringUtils
+io.flutter.view.TextureRegistry$ImageTextureEntry
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin
+androidx.versionedparcelable.CustomVersionedParcelable
+com.example.todo.MainActivity
+com.dexterous.flutterlocalnotifications.utils.BooleanUtils
+android.support.v4.media.MediaBrowserCompat$CustomActionResultReceiver
+android.support.v4.media.MediaMetadataCompat
+androidx.window.extensions.core.util.function.Predicate
+androidx.media.AudioAttributesImplApi21
+android.support.v4.media.AudioAttributesImplBaseParcelizer
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+androidx.core.app.RemoteActionCompatParcelizer
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation
+com.dexterous.flutterlocalnotifications.models.NotificationDetails
+com.dexterous.flutterlocalnotifications.models.SoundSource
+io.flutter.view.TextureRegistry$SurfaceProducer
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation
+android.support.v4.media.AudioAttributesImplApi26Parcelizer
+androidx.media.AudioAttributesImpl
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails
+com.dexterous.flutterlocalnotifications.models.ScheduleMode
+androidx.profileinstaller.ProfileInstallReceiver
+android.support.v4.media.session.PlaybackStateCompat
+android.support.v4.media.AudioAttributesCompatParcelizer
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper
+android.support.v4.media.MediaBrowserCompat$MediaItem
+androidx.media.AudioAttributesCompat
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+com.dexterous.flutterlocalnotifications.models.NotificationStyle
+androidx.media.AudioAttributesCompatParcelizer
+androidx.media.AudioAttributesImplApi26Parcelizer
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory
+com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+android.support.v4.media.session.ParcelableVolumeInfo
+androidx.core.app.RemoteActionCompat
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback
+com.dexterous.flutterlocalnotifications.models.styles.StyleInformation
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ticker
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String sound
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.SoundSource soundSource
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_NOTIFICATION_CHANNELS_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MAX_PROGRESS
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.Integer hour
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean indeterminate
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_RED
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean silent
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_ID
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean ignoringFence
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String GROUP_ALERT_BEHAVIOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CALLED_AT
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource FlutterBitmapAsset
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String CHANNEL_ACTION
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.String dataMimeType
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String channelName
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String id
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Object largeIcon
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents DateAndTime
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SCHEDULE_MODE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_BLUE
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.String SECOND
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String GROUP_CONVERSATION
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TIMEOUT_AFTER
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: com.dexterous.flutterlocalnotifications.models.ScheduleMode[] $VALUES
+android.support.v4.media.MediaBrowserCompat$MediaItem: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String SOUND_SOURCE
+kotlinx.coroutines.channels.BufferedChannel: long receivers
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer ledOnMs
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: long[] vibrationPattern
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DELETE_NOTIFICATION_CHANNEL_METHOD
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean createNewReader
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SUB_TEXT
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation: java.lang.Boolean htmlFormatTitle
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String VISIBILITY
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.Boolean htmlFormatSummaryText
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TEXT
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ID
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: com.dexterous.flutterlocalnotifications.models.NotificationStyle BigPicture
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String REPEAT_INTERVAL
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INPUT
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_ALPHA
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LINES
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastDequeueTime
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHRONOMETER_COUNT_DOWN
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: com.dexterous.flutterlocalnotifications.models.ScheduleMode alarmClock
+com.dexterous.flutterlocalnotifications.models.RepeatInterval: com.dexterous.flutterlocalnotifications.models.RepeatInterval[] $VALUES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.DateTimeComponents matchDateTimeComponents
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CATEGORY
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_BLUE
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String SHOW_BADGE
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_LINES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BIG_TEXT
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String AUDIO_ATTRIBUTES_USAGE
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource ByteArray
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String NOTIFICATION_RESPONSE_TYPE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLORIZED
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String description
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String ARE_NOTIFICATIONS_ENABLED_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean ongoing
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_RED
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String STOP_FOREGROUND_SERVICE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer color
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.util.List actionInputs
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer iconResourceId
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.String MINUTE
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String TITLE
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: com.dexterous.flutterlocalnotifications.models.NotificationStyle Default
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_DRAWABLE_RESOURCE_ERROR_MESSAGE
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean showBadge
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String NAME
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String STYLE
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ICON_SOURCE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String START_FOREGROUND_SERVICE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String ACTION_ID
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.Boolean cancelNotification
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_BLUE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean colorized
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource Uri
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_TAG
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HIDE_EXPANDED_LARGE_ICON
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String REPEAT_INTERVAL_MILLISECONDS
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.BitmapSource largeIconBitmapSource
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.Integer titleColor
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.ScheduleMode scheduleMode
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: java.lang.String conversationTitle
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String groupId
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: com.dexterous.flutterlocalnotifications.models.ScheduleMode inexact
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String title
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.Boolean showsUserInterface
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PERSON
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer progress
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String body
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_ACTIVE_NOTIFICATIONS_ERROR_MESSAGE
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: android.media.Image image
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: com.dexterous.flutterlocalnotifications.models.BitmapSource largeIconBitmapSource
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String PLAY_SOUND
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin$PermissionRequestProgress permissionRequestProgress
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SHARED_PREFERENCES_KEY
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SCHEDULED_DATE_TIME
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SCHEDULED_NOTIFICATIONS
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TIME_ZONE_NAME
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.String summaryText
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer ledOffMs
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource DrawableResource
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer maxProgress
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SOUND_SOURCE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_BIG_TEXT
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction Update
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DRAWABLE
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_NAME
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean setAsGroupSummary
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_METHOD
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: java.lang.Runnable onFrameConsumed
+android.support.v4.media.session.MediaSessionCompat$QueueItem: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PERIODICALLY_SHOW_WITH_DURATION
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String DESCRIPTION
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_SHOW_BADGE
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: com.dexterous.flutterlocalnotifications.models.ScheduleMode inexactAllowWhileIdle
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String STYLE_INFORMATION
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SHOW_METHOD
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String METHOD_CHANNEL
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_ID
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String TITLE_COLOR_GREEN
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.String text
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.HashMap perImageReaders
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.String contentTitle
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int requestedWidth
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource[] $VALUES
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String ID
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_CONTENT_TITLE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer priority
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_LARGE_ICON_ERROR_CODE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PRIORITY
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String ID
+android.support.v4.os.ResultReceiver: android.os.Parcelable$Creator CREATOR
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_TITLE
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+kotlinx.coroutines.flow.StateFlowSlot: java.lang.Object _state
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Boolean hideExpandedLargeIcon
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+io.flutter.embedding.engine.FlutterJNI: java.lang.String vmServiceUri
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ONLY_ALERT_ONCE
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long id
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String CONTEXTUAL
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PENDING_NOTIFICATION_REQUESTS_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SHOW_WHEN
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String CANCEL_NOTIFICATION
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_ON_MS
+com.dexterous.flutterlocalnotifications.models.RepeatInterval: com.dexterous.flutterlocalnotifications.models.RepeatInterval Daily
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_OFF_MS
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean playSound
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_RED
+kotlinx.coroutines.CancelledContinuation: int _resumed
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ADDITIONAL_FLAGS
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean $assertionsDisabled
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String id
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.content.Context applicationContext
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.Boolean htmlFormatLines
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String INDETERMINATE
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.Boolean allowGeneratedReplies
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: com.dexterous.flutterlocalnotifications.models.ScheduleMode exact
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CREATE_NOTIFICATION_CHANNEL_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction[] $VALUES
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_SOUND_ERROR_CODE
+com.dexterous.flutterlocalnotifications.models.PersonDetails: com.dexterous.flutterlocalnotifications.models.IconSource iconBitmapSource
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_ALL_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String NAME
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String AUDIO_ATTRIBUTES_USAGE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String IMPORTANCE
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SELECT_FOREGROUND_NOTIFICATION_ACTION
+com.dexterous.flutterlocalnotifications.models.MessageDetails: com.dexterous.flutterlocalnotifications.models.PersonDetails person
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_ACTIVE_NOTIFICATION_MESSAGING_STYLE_METHOD
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader lastReaderDequeuedFrom
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource FilePath
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.Integer minute
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency[] $VALUES
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int MAX_IMAGES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer number
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.String typeFieldName
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String IMPORTANT
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer id
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: java.lang.Boolean groupConversation
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String channelDescription
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String title
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String NOTIFICATION_TAG
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.Activity mainActivity
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastScheduleTime
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean enableLights
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String id
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.String key
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.Integer second
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean usesChronometer
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: int NOTIFICATION_PERMISSION_REQUEST_CODE
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.String contentTitle
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String ICON
+android.support.v4.media.session.PlaybackStateCompat$CustomAction: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.String uri
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Boolean enableVibration
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_ACTIVE_NOTIFICATION_MESSAGING_STYLE_ERROR_CODE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CREATE_NOTIFICATION_CHANNEL_GROUP_METHOD
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.Boolean important
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Boolean htmlFormatSummaryText
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource[] $VALUES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SILENT
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.String summaryText
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.Time repeatTime
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean notifiedDestroy
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.Boolean htmlFormatBigText
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ONGOING
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String payload
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.google.gson.Gson gson
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.String contentTitle
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_ICON_ERROR_CODE
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TITLE
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean VERBOSE_LOGS
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean enableLights
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+io.flutter.embedding.engine.FlutterJNI: float displayWidth
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.Boolean contextual
+kotlinx.coroutines.CompletedExceptionally: int _handled
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String INPUTS
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents DayOfMonthAndTime
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag
+com.dexterous.flutterlocalnotifications.models.Time: java.lang.String HOUR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String URI
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction channelAction
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: com.dexterous.flutterlocalnotifications.models.NotificationStyle Inbox
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean onlyAlertOnce
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String ENABLE_LIGHTS
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents DayOfWeekAndTime
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String DATA_URI
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String REQUEST_EXACT_ALARMS_PERMISSION_METHOD
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.String summaryText
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MATCH_DATE_TIME_COMPONENTS
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.NotificationStyle style
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: io.flutter.plugin.common.MethodChannel channel
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String ENABLE_VIBRATION
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents Time
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int requestedHeight
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_CONTENT
+io.flutter.embedding.engine.FlutterJNI: float displayHeight
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String subText
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SCHEDULED_NOTIFICATION_REPEAT_FREQUENCY
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.util.Map subtypeToLabel
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.Long timestamp
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long millisecondsSinceEpoch
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String SHOWS_USER_INTERFACE
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String NAME
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CONVERSATION_TITLE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String HTML_FORMAT_SUMMARY_TEXT
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_BIG_PICTURE_ERROR_CODE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean autoCancel
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction channelAction
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: com.dexterous.flutterlocalnotifications.models.ScheduleMode exactAllowWhileIdle
+com.dexterous.flutterlocalnotifications.models.NotificationAction: com.dexterous.flutterlocalnotifications.models.IconSource iconSource
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ACTIONS
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String TITLE_COLOR_ALPHA
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SOUND
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+io.flutter.embedding.engine.FlutterJNI: float displayDensity
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean trimOnMemoryPressure
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency Daily
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean chronometerCountDown
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency Weekly
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ENABLE_VIBRATION
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.util.List actions
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String FULL_SCREEN_INTENT
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.dexterous.flutterlocalnotifications.PermissionRequestListener callback
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String DAY
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Integer ledColor
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String DESCRIPTION
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long lastQueueTime
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_ALPHA
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String ZONED_SCHEDULE_METHOD
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: long id
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer repeatIntervalMilliseconds
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CAN_SCHEDULE_EXACT_NOTIFICATIONS_METHOD
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation: java.lang.Boolean htmlFormatBody
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TAG
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String icon
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer importance
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String description
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MILLISECONDS_SINCE_EPOCH
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PAYLOAD
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: int EXACT_ALARM_PERMISSION_REQUEST_CODE
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.Boolean htmlFormatSummaryText
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: com.dexterous.flutterlocalnotifications.models.PersonDetails person
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ICON
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String GROUP_KEY
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BIG_PICTURE_BITMAP_SOURCE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CONTENT_TITLE
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction CreateIfNotExists
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String SELECT_NOTIFICATION
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource BitmapFilePath
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String TITLE_COLOR_RED
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource ByteArray
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DELETE_NOTIFICATION_CHANNEL_GROUP_METHOD
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.Boolean htmlFormatContentTitle
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.Boolean bot
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean showProgress
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String timeZoneName
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: int[] additionalFlags
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BOT
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents[] $VALUES
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_ALPHA
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource DrawableResource
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DEFAULT_ICON
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: boolean released
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImage lastDequeuedImage
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String TITLE_COLOR_BLUE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PROGRESS
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer this$0
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String shortcutId
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Boolean htmlFormatContentTitle
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_CALLBACK_HANDLE_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String category
+com.dexterous.flutterlocalnotifications.models.MessageDetails: java.lang.String dataUri
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PLAY_SOUND
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_NOTIFICATION_CHANNELS_ERROR_CODE
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String channelId
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long when
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource[] $VALUES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BIG_PICTURE
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Integer audioAttributesUsage
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String ENABLE_LIGHTS
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String COLOR_GREEN
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_LED_DETAILS_ERROR_MESSAGE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_NOTIFICATION_APP_LAUNCH_DETAILS_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String icon
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: boolean ignoringFence
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.SoundSource soundSource
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.Object icon
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_DESCRIPTION
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: com.dexterous.flutterlocalnotifications.models.NotificationStyle BigText
+com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String UNSUPPORTED_OS_VERSION_ERROR_CODE
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: io.flutter.embedding.engine.renderer.FlutterRenderer this$0
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: com.dexterous.flutterlocalnotifications.models.BitmapSource bigPictureBitmapSource
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.util.ArrayDeque imageReaderQueue
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: java.lang.String name
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: java.lang.String bigText
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.RepeatInterval repeatInterval
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean newFrameAvailable
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String NOTIFICATION_DETAILS
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PLATFORM_SPECIFICS
+com.dexterous.flutterlocalnotifications.models.RepeatInterval: com.dexterous.flutterlocalnotifications.models.RepeatInterval Hourly
+com.dexterous.flutterlocalnotifications.models.PersonDetails: java.lang.String name
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean channelShowBadge
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String TAG
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String SOUND
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean attached
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INPUT_RESULT
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String REPEAT_TIME
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String REQUEST_NOTIFICATIONS_PERMISSION_METHOD
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.util.ArrayList lines
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TICKER
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SUMMARY_TEXT
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PERMISSION_REQUEST_IN_PROGRESS_ERROR_CODE
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String scheduledDateTime
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String KEY
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String REQUEST_FULL_SCREEN_INTENT_PERMISSION_METHOD
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String EXACT_ALARMS_PERMISSION_ERROR_CODE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer visibility
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer audioAttributesUsage
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long timeoutAfter
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INITIALIZE_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String GROUP_ID
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String DATA_MIME_TYPE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LED_COLOR_GREEN
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean released
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Object largeIcon
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String IMPORTANCE
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_RAW_RESOURCE_ERROR_MESSAGE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String VIBRATION_PATTERN
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String TIMESTAMP
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SHOW_PROGRESS
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String NUMBER
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.util.Map labelToSubtype
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PERIODICALLY_SHOW_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String name
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource ContentUri
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency scheduledNotificationRepeatFrequency
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.styles.StyleInformation styleInformation
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CANCEL_NOTIFICATION
+android.support.v4.media.MediaDescriptionCompat: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean playSound
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String ICON_SOURCE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean enableVibration
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String MESSAGES
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.lang.String ALLOW_GENERATED_REPLIES
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: com.dexterous.flutterlocalnotifications.models.NotificationStyle Media
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: int FULL_SCREEN_INTENT_PERMISSION_REQUEST_CODE
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numTrims
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String PAYLOAD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String BODY
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: com.dexterous.flutterlocalnotifications.models.NotificationStyle[] $VALUES
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LARGE_ICON_BITMAP_SOURCE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SHORTCUT_ID
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String DISPATCHER_HANDLE
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer day
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer groupAlertBehavior
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource RawResource
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String LARGE_ICON
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String NOTIFICATION_ID
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Integer ledColor
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String USES_CHRONOMETER
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String SET_AS_GROUP_SUMMARY
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String CHANNEL_ACTION
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: java.lang.Object lock
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String WHEN
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String ID
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean CLEANUP_ON_MEMORY_PRESSURE
+android.support.v4.media.session.ParcelableVolumeInfo: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String LED_COLOR_GREEN
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String sound
+com.dexterous.flutterlocalnotifications.models.RepeatInterval: com.dexterous.flutterlocalnotifications.models.RepeatInterval Weekly
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: com.dexterous.flutterlocalnotifications.models.NotificationStyle Messaging
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: long[] vibrationPattern
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: java.lang.Object bigPicture
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.Integer importance
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.Class baseType
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String groupKey
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Long calledAt
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: java.util.ArrayList messages
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: java.lang.String VIBRATION_PATTERN
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean showWhen
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String INVALID_LED_DETAILS_ERROR_CODE
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String AUTO_CANCEL
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String CALLBACK_HANDLE
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String PERMISSION_REQUEST_IN_PROGRESS_ERROR_MESSAGE
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+com.dexterous.flutterlocalnotifications.models.RepeatInterval: com.dexterous.flutterlocalnotifications.models.RepeatInterval EveryMinute
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+kotlinx.coroutines.InvokeOnCancelling: int _invoked
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.String tag
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: java.lang.Boolean htmlFormatContentTitle
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.view.TextureRegistry$SurfaceProducer$Callback callback
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.lang.Boolean fullScreenIntent
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String NOTIFICATION_LAUNCHED_APP
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String GET_ACTIVE_NOTIFICATIONS_METHOD
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readProgressInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void saveScheduledNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void requestFullScreenIntentPermission(com.dexterous.flutterlocalnotifications.PermissionRequestListener)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: int getDrawableResourceId(android.content.Context,java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+com.dexterous.flutterlocalnotifications.models.styles.BigTextStyleInformation: BigTextStyleInformation(java.lang.Boolean,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeaturesInNative(int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.net.Uri retrieveSoundResourceUri(android.content.Context,java.lang.String,com.dexterous.flutterlocalnotifications.models.SoundSource)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onAttachedToActivity(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetLeft(android.view.DisplayCutout)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC: void $default$setOnTrimMemoryListener(io.flutter.view.TextureRegistry$SurfaceTextureEntry,io.flutter.view.TextureRegistry$OnTrimMemoryListener)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.core.app.NotificationCompat$CallStyle$Api31Impl: android.app.Notification$CallStyle forOngoingCall(android.app.Person,android.app.PendingIntent)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState[] values()
+com.dexterous.flutterlocalnotifications.models.Time: Time()
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void setHotspot(android.graphics.drawable.Drawable,float,float)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidLargeIcon(io.flutter.plugin.common.MethodChannel$Result,java.lang.Object,com.dexterous.flutterlocalnotifications.models.BitmapSource)
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void show(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void repeatNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.lang.Boolean)
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedSchedule(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getType(java.lang.Object)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.app.NotificationManagerCompat getNotificationManager(android.content.Context)
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents valueOf(java.lang.String)
+androidx.core.app.AppOpsManagerCompat$Api23Impl: java.lang.Object getSystemService(android.content.Context,java.lang.Class)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+com.dexterous.flutterlocalnotifications.models.styles.StyleInformation: StyleInformation()
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: boolean useAllowWhileIdle()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int getWidth()
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+androidx.core.app.AppOpsManagerCompat$Api23Impl: int noteProxyOpNoThrow(android.app.AppOpsManager,java.lang.String,java.lang.String)
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.core.app.NotificationCompat$Builder$Api21Impl: android.media.AudioAttributes$Builder createBuilder()
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: android.content.Context getPresentationContext()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+androidx.core.app.AlarmManagerCompat$Api23Impl: void setAndAllowWhileIdle(android.app.AlarmManager,int,long,android.app.PendingIntent)
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+androidx.core.app.RemoteInput$Api20Impl: android.os.Bundle getResultsFromIntent(android.content.Intent)
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+com.dexterous.flutterlocalnotifications.models.NotificationAction: java.util.List castList(java.lang.Class,java.util.Collection)
+androidx.core.app.NotificationManagerCompat$Api26Impl: void deleteNotificationChannelGroup(android.app.NotificationManager,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setupNotificationChannel(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails)
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory registerSubtype(java.lang.Class)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readGroupingInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+androidx.core.app.NotificationCompat$DecoratedCustomViewStyle$Api24Impl: android.app.Notification$Style createDecoratedCustomViewStyle()
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+io.flutter.view.TextureRegistry$ImageTextureEntry: long id()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readLargeIconInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+com.dexterous.flutterlocalnotifications.models.SoundSource: SoundSource(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: FlutterLocalNotificationsPlugin()
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: NotificationChannelDetails()
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+androidx.core.app.NotificationCompat$CallStyle$Api31Impl: android.app.Notification$CallStyle setIsVideo(android.app.Notification$CallStyle,boolean)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifierBase(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+androidx.core.app.NotificationManagerCompat$Api26Impl: void createNotificationChannelGroups(android.app.NotificationManager,java.util.List)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+io.flutter.embedding.android.FlutterView: void setVisibility(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$502(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: ScheduledNotificationRepeatFrequency(java.lang.String,int)
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+androidx.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: NotificationStyle(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.Integer tryParseInt(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+androidx.core.app.ActivityCompat$Api23Impl: void requestPermissions(android.app.Activity,java.lang.String[],int)
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.renderer.FlutterRenderer$ViewportMetrics getViewportMetrics()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.AlarmManager getAlarmManager(android.content.Context)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getCallbackHandle(io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readPlatformSpecifics(java.util.Map,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void processForegroundNotificationAction(android.content.Intent,java.util.Map)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetTop(android.view.DisplayCutout)
+androidx.core.app.NotificationCompat$CallStyle$Api23Impl: android.app.Notification$Action$Builder createActionBuilder(android.graphics.drawable.Icon,java.lang.CharSequence,android.app.PendingIntent)
+androidx.startup.InitializationProvider: InitializationProvider()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.Notification createNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+androidx.core.app.AppOpsManagerCompat$Api29Impl: int checkOpNoThrow(android.app.AppOpsManager,java.lang.String,int,java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: java.util.ArrayList readMessages(java.util.ArrayList)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetRight(android.view.DisplayCutout)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+kotlin.collections.AbstractList: AbstractList()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.app.NotificationCompat$CallStyle$Api21Impl: android.app.Notification$Builder addPerson(android.app.Notification$Builder,java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintList(android.view.View,android.content.res.ColorStateList)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void waitOnFence(android.media.Image)
+androidx.core.view.ViewCompat$Api21Impl: void setTranslationZ(android.view.View,float)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+com.dexterous.flutterlocalnotifications.utils.StringUtils: java.lang.Boolean isNullOrEmpty(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void pushImage(android.media.Image)
+io.flutter.plugins.pathprovider.Messages$StorageDirectory: io.flutter.plugins.pathprovider.Messages$StorageDirectory[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.window.extensions.core.util.function.Function: java.lang.Object apply(java.lang.Object)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean access$900(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+kotlin.random.Random: Random()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void setSize(int,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void releaseInternal()
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean access$300(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+androidx.core.content.ContextCompat$Api26Impl: android.content.ComponentName startForegroundService(android.content.Context,android.content.Intent)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+androidx.media.AudioAttributesImplApi21: AudioAttributesImplApi21()
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateDisplayMetrics(long)
+androidx.core.app.NotificationCompat$MessagingStyle$Message$Api28Impl: android.os.Parcelable castToParcelable(android.app.Person)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+androidx.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setActivity(android.app.Activity)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action build(android.app.Notification$Action$Builder)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void setOnFrameConsumedListener(io.flutter.view.TextureRegistry$OnFrameConsumedListener)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void endRearDisplayPresentationSession()
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String getNextFireDate(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+androidx.core.view.ViewCompat$Api28Impl: void setAutofillId(android.view.View,androidx.core.view.autofill.AutofillIdCompat)
+android.support.v4.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+io.flutter.view.TextureRegistry$SurfaceProducer: boolean handlesCropAndRotation()
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+androidx.core.app.NotificationCompat$CallStyle$Api31Impl: android.app.Notification$CallStyle forScreeningCall(android.app.Person,android.app.PendingIntent,android.app.PendingIntent)
+androidx.core.app.NotificationCompat$CallStyle$Api28Impl: android.app.Notification$Builder addPerson(android.app.Notification$Builder,android.app.Person)
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void requestExactAlarmsPermission(com.dexterous.flutterlocalnotifications.PermissionRequestListener)
+io.flutter.view.TextureRegistry$SurfaceProducer: void setCallback(io.flutter.view.TextureRegistry$SurfaceProducer$Callback)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader33()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+android.support.v4.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.plugin.platform.PlatformViewWrapper: int getRenderTargetHeight()
+androidx.core.app.NotificationManagerCompat$Api26Impl: void createNotificationChannelGroup(android.app.NotificationManager,android.app.NotificationChannelGroup)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+io.flutter.plugins.pathprovider.Messages$StorageDirectory: io.flutter.plugins.pathprovider.Messages$StorageDirectory valueOf(java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.core.app.NotificationManagerCompat$Api26Impl: java.util.List getNotificationChannels(android.app.NotificationManager)
+io.flutter.embedding.engine.FlutterJNI: boolean ShouldDisableAHB()
+androidx.core.app.NotificationCompat$Builder$Api21Impl: android.media.AudioAttributes$Builder setUsage(android.media.AudioAttributes$Builder,int)
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+io.flutter.embedding.android.FlutterView: void setDelegate(io.flutter.embedding.android.FlutterViewDelegate)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Icon toIcon(androidx.core.graphics.drawable.IconCompat,android.content.Context)
+androidx.window.layout.util.ContextCompatHelperApi30: androidx.core.view.WindowInsetsCompat currentWindowInsets(android.content.Context)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setTimeoutAfter(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.core.app.NotificationCompat$BigPictureStyle$Api31Impl: void setContentDescription(android.app.Notification$BigPictureStyle,java.lang.CharSequence)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void cleanup()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader getOrCreatePerImageReader(android.media.ImageReader)
+androidx.core.app.RemoteInput$Api29Impl: int getEditChoicesBeforeSending(java.lang.Object)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void removeRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onDetachedFromEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean handlesCropAndRotation()
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void addRearDisplayPresentationStatusListener(androidx.window.extensions.core.util.function.Consumer)
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory registerSubtype(java.lang.Class,java.lang.String)
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency valueOf(java.lang.String)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void applyTheme(android.graphics.drawable.Drawable,android.content.res.Resources$Theme)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: java.util.List getBoundingRects(android.view.DisplayCutout)
+androidx.core.view.ViewCompat$Api28Impl: void setScreenReaderFocusable(android.view.View,boolean)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void rescheduleNotifications(android.content.Context)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+io.flutter.view.TextureRegistry$SurfaceProducer: android.view.Surface getSurface()
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean launchedActivityFromHistory(android.content.Intent)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void maybeWaitOnFence(android.media.Image)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void scheduleNextNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void startRearDisplaySession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+io.flutter.embedding.engine.FlutterJNI: void onVsync(long,long,long)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setSmallIcon(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource[] values()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.util.Map access$200(com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory)
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: double deltaMillis(long)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void setCallback(io.flutter.view.TextureRegistry$SurfaceProducer$Callback)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.core.view.ViewCompat$Api21Impl: android.graphics.PorterDuff$Mode getBackgroundTintMode(android.view.View)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setCustomHeadsUpContentView(android.app.Notification$Builder,android.widget.RemoteViews)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+androidx.core.app.RemoteInput$Api29Impl: android.app.RemoteInput$Builder setEditChoicesBeforeSending(android.app.RemoteInput$Builder,int)
+com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver: ScheduledNotificationBootReceiver()
+com.dexterous.flutterlocalnotifications.models.NotificationAction: NotificationAction(java.util.Map)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabledInNative(boolean)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedScheduleNextNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+androidx.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$102(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation getDefaultStyleInformation(java.util.Map)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.core.content.ContextCompat$Api23Impl: int getColor(android.content.Context,int)
+androidx.core.content.ContextCompat$Api28Impl: java.util.concurrent.Executor getMainExecutor(android.content.Context)
+androidx.window.area.reflectionguard.ExtensionWindowAreaPresentationRequirements: void setPresentationView(android.view.View)
+androidx.core.app.NotificationManagerCompat$Api26Impl: android.app.NotificationChannel getNotificationChannel(android.app.NotificationManager,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+com.dexterous.flutterlocalnotifications.utils.StringUtils: StringUtils()
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.net.Uri getUri(java.lang.Object)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails from(java.util.Map)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setupAlarm(com.dexterous.flutterlocalnotifications.models.NotificationDetails,android.app.AlarmManager,long,android.app.PendingIntent)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setBadgeIconType(android.app.Notification$Builder,int)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmoji(int)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean onActivityResult(int,int,android.content.Intent)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.core.app.NotificationCompat$CallStyle$Api31Impl: android.app.Notification$CallStyle setVerificationIcon(android.app.Notification$CallStyle,android.graphics.drawable.Icon)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void checkCanScheduleExactAlarms(android.app.AlarmManager)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void scheduleNextRepeatingNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.NotificationDetails from(java.util.Map)
+androidx.core.view.ViewCompat$Api21Impl: boolean isNestedScrollingEnabled(android.view.View)
+androidx.core.view.ViewCompat$Api21Impl: void setElevation(android.view.View,float)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setColor(android.app.Notification$Builder,int)
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: android.media.Image acquireLatestImage()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: androidx.window.extensions.area.ExtensionWindowAreaPresentation getRearDisplayPresentation()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.app.NotificationCompat$MessagingStyle$Message createMessage(android.content.Context,com.dexterous.flutterlocalnotifications.models.MessageDetails)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Icon createWithAdaptiveBitmap(android.graphics.Bitmap)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void pruneImageReaderQueue()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void release()
+androidx.core.app.NotificationCompatBuilder$Api31Impl: android.app.Notification$Action$Builder setAuthenticationRequired(android.app.Notification$Action$Builder,boolean)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onDetachedFromActivityForConfigChanges()
+com.dexterous.flutterlocalnotifications.utils.BooleanUtils: BooleanUtils()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean isValidDrawableResource(android.content.Context,java.lang.String,io.flutter.plugin.common.MethodChannel$Result,java.lang.String)
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type[] values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader29()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: android.graphics.ColorFilter getColorFilter(android.graphics.drawable.Drawable)
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: android.util.DisplayMetrics getWindowAreaDisplayMetrics()
+androidx.core.app.NotificationCompatBuilder$Api23Impl: android.app.Notification$Builder setSmallIcon(android.app.Notification$Builder,java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void updateRefreshRate()
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: android.util.DisplayMetrics getRearDisplayMetrics()
+androidx.core.app.NotificationCompatBuilder$Api31Impl: android.app.Notification$Builder setForegroundServiceBehavior(android.app.Notification$Builder,int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void addRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterImageTexture(long,long,java.lang.ref.WeakReference)
+io.flutter.embedding.engine.FlutterJNI: float getScaledFontSize(float,int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+androidx.core.view.ViewCompat$Api21Impl: boolean isImportantForAccessibility(android.view.View)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void repeat(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.app.NotificationCompat$MessagingStyle$Api24Impl: android.app.Notification$MessagingStyle addMessage(android.app.Notification$MessagingStyle,android.app.Notification$MessagingStyle$Message)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.core.app.NotificationCompat$CallStyle$Api31Impl: android.app.Notification$CallStyle setAnswerButtonColorHint(android.app.Notification$CallStyle,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: boolean access$302(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer,boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.core.app.Person$Api28Impl: androidx.core.app.Person fromAndroidPerson(android.app.Person)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+android.support.v4.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void removeNotificationFromCache(android.content.Context,java.lang.Integer)
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents[] $values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: long calculateNextNotificationTrigger(long,long)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onAttachedToEngine(io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setRemoteInputHistory(android.app.Notification$Builder,java.lang.CharSequence[])
+androidx.core.app.NotificationCompatBuilder$Api20Impl: java.lang.String getGroup(android.app.Notification)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readMessagingStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedFling(android.view.View,float,float,boolean)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.ImageReader createImageReader()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointVariantSelector(int)
+androidx.core.app.NotificationCompatBuilder$Api23Impl: android.app.Notification$Action$Builder createBuilder(android.graphics.drawable.Icon,java.lang.CharSequence,android.app.PendingIntent)
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.FlutterJNI: void nativeScheduleFrame(long)
+com.dexterous.flutterlocalnotifications.models.styles.BigPictureStyleInformation: BigPictureStyleInformation(java.lang.Boolean,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.Object,com.dexterous.flutterlocalnotifications.models.BitmapSource,java.lang.Object,com.dexterous.flutterlocalnotifications.models.BitmapSource,java.lang.Boolean)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: long id()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+com.dexterous.flutterlocalnotifications.utils.BooleanUtils: boolean getValue(java.lang.Boolean)
+androidx.core.graphics.drawable.IconCompat$Api30Impl: android.graphics.drawable.Icon createWithAdaptiveBitmapContentUri(android.net.Uri)
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy[] values()
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+androidx.core.app.NotificationManagerCompat$Api26Impl: java.lang.String getId(android.app.NotificationChannel)
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: long calculateRepeatIntervalMilliseconds(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: com.dexterous.flutterlocalnotifications.models.NotificationStyle valueOf(java.lang.String)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+androidx.core.app.RemoteInput$Api20Impl: void addResultsToIntent(java.lang.Object,android.content.Intent,android.os.Bundle)
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState: io.flutter.embedding.engine.systemchannels.LifecycleChannel$AppLifecycleState valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: byte[] castObjectToByteArray(java.lang.Object)
+androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements: void startRearDisplayPresentationSession(android.app.Activity,androidx.window.extensions.core.util.function.Consumer)
+androidx.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+androidx.core.view.DisplayCutoutCompat$Api28Impl: android.view.DisplayCutout createDisplayCutout(android.graphics.Rect,java.util.List)
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+androidx.core.view.ViewCompat$Api21Impl: boolean startNestedScroll(android.view.View,int)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setTimeoutAfter(android.app.Notification$Builder,long)
+androidx.core.app.AppOpsManagerCompat$Api23Impl: int noteProxyOp(android.app.AppOpsManager,java.lang.String,java.lang.String)
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.text.Spanned fromHtml(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setShortcutId(android.app.Notification$Builder,java.lang.String)
+io.flutter.plugin.platform.PlatformViewWrapper: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void scheduleNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.lang.Boolean)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeShouldDisableAHB()
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: RuntimeTypeAdapterFactory(java.lang.Class,java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.core.content.ContextCompat$Api23Impl: java.lang.String getSystemServiceName(android.content.Context,java.lang.Class)
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void cancelNotification(java.lang.Integer,java.lang.String)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getResId(java.lang.Object)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails from(java.util.Map)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void maybeWaitOnFence(android.media.Image)
+android.support.v4.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: long id()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api23Impl: int getScrollIndicators(android.view.View)
+androidx.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View)
+androidx.core.app.NotificationManagerCompat$Api26Impl: void deleteNotificationChannel(android.app.NotificationManager,java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readInboxStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver: void onReceive(android.content.Context,android.content.Intent)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$Api29Impl: void registerActivityLifecycleCallbacks(android.app.Activity,android.app.Application$ActivityLifecycleCallbacks)
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: com.dexterous.flutterlocalnotifications.models.ScheduleMode[] values()
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityHeading(android.view.View,boolean)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Builder setAllowSystemGeneratedContextualActions(android.app.Notification$Builder,boolean)
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+androidx.core.app.NotificationCompat$Builder$Api21Impl: android.media.AudioAttributes$Builder setLegacyStreamType(android.media.AudioAttributes$Builder,int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void scheduleFrame()
+androidx.core.view.ViewCompat$Api21Impl: void stopNestedScroll(android.view.View)
+androidx.core.view.ViewCompat$Api21Impl: float getTranslationZ(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+io.flutter.plugin.platform.PlatformViewWrapper: void setTouchProcessor(io.flutter.embedding.android.AndroidTouchProcessor)
+androidx.window.core.VerificationMode: androidx.window.core.VerificationMode valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.IconSource: IconSource(java.lang.String,int)
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int,int)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.dexterous.flutterlocalnotifications.models.NotificationDetails extractNotificationDetails(io.flutter.plugin.common.MethodChannel$Result,java.util.Map)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setCategory(android.app.Notification$Builder,java.lang.String)
+androidx.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements: int getWindowAreaStatus()
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.Boolean sendNotificationPayloadMessage(android.content.Intent)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: com.google.gson.Gson buildGson()
+io.flutter.plugin.platform.PlatformViewWrapper: android.view.ViewTreeObserver$OnGlobalFocusChangeListener getActiveFocusListener()
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.core.app.NotificationCompatBuilder$Api28Impl: android.app.Notification$Action$Builder setSemanticAction(android.app.Notification$Action$Builder,int)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: boolean useAlarmClock()
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void setTintList(android.graphics.drawable.Drawable,android.content.res.ColorStateList)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Action$Builder setAllowGeneratedReplies(android.app.Notification$Action$Builder,boolean)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.util.Map extractNotificationResponseMap(android.content.Intent)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: android.graphics.SurfaceTexture surfaceTexture()
+androidx.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void finalize()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+androidx.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.profileinstaller.ProfileInstallerInitializer$Choreographer16Impl: void postFrameCallback(java.lang.Runnable)
+androidx.core.app.NotificationCompatBuilder$Api23Impl: android.app.Notification$Builder setLargeIcon(android.app.Notification$Builder,android.graphics.drawable.Icon)
+androidx.core.view.ViewCompat$Api28Impl: void removeOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelGroupDetails: NotificationChannelGroupDetails()
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void release()
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+androidx.core.view.ViewCompat$Api21Impl: boolean hasNestedScrollingParent(android.view.View)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver: ActionBroadcastReceiver()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.util.ArrayList loadScheduledNotifications(android.content.Context)
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader getActiveReader()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setBigTextStyle(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getNotificationAppLaunchDetails(io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void showNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+androidx.core.view.ViewCompat$Api21Impl: float getElevation(android.view.View)
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Builder setBubbleMetadata(android.app.Notification$Builder,android.app.Notification$BubbleMetadata)
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.view.TextureRegistry$ImageTextureEntry: void pushImage(android.media.Image)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.view.TextureRegistry$SurfaceProducer$Callback access$200(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: android.net.Uri getUri(java.lang.Object)
+androidx.core.app.ActivityCompat$Api23Impl: void onSharedElementsReady(java.lang.Object)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: NotificationChannelAction(java.lang.String,int)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder addPerson(android.app.Notification$Builder,java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+io.flutter.view.TextureRegistry$ImageTextureEntry: void release()
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setGroupAlertBehavior(android.app.Notification$Builder,int)
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+androidx.core.app.AppOpsManagerCompat$Api29Impl: java.lang.String getOpPackageName(android.content.Context)
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: ScheduleMode(java.lang.String,int)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setSound(android.app.Notification$Builder,android.net.Uri,java.lang.Object)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean shouldUpdate()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+io.flutter.embedding.android.FlutterView: io.flutter.plugin.common.BinaryMessenger getBinaryMessenger()
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action$Builder addRemoteInput(android.app.Notification$Action$Builder,android.app.RemoteInput)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.android.FlutterImageView getCurrentImageSurface()
+io.flutter.view.TextureRegistry$GLTextureConsumer: android.graphics.SurfaceTexture getSurfaceTexture()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void saveScheduledNotifications(android.content.Context,java.util.ArrayList)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void onTrimMemory(int)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder createBuilder(android.content.Context,java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidLedDetails(io.flutter.plugin.common.MethodChannel$Result,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+androidx.profileinstaller.ProfileInstallerInitializer$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.core.view.ViewCompat$Api21Impl: void setZ(android.view.View,float)
+com.google.gson.ToNumberPolicy: com.google.gson.ToNumberPolicy[] values()
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.core.app.RemoteInput$Api26Impl: java.util.Map getDataResultsFromIntent(android.content.Intent,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointRegionalIndicator(int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImageReader access$800(io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer)
+io.flutter.view.TextureRegistry$ImageConsumer: android.media.Image acquireLatestImage()
+com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency: com.dexterous.flutterlocalnotifications.models.ScheduledNotificationRepeatFrequency[] $values()
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setLocalOnly(android.app.Notification$Builder,boolean)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder addAction(android.app.Notification$Builder,android.app.Notification$Action)
+androidx.core.app.NotificationCompat$CallStyle$Api21Impl: android.app.Notification$Builder setCategory(android.app.Notification$Builder,java.lang.String)
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Action$Builder setContextual(android.app.Notification$Action$Builder,boolean)
+androidx.core.app.Person$Api28Impl: android.app.Person toAndroidPerson(androidx.core.app.Person)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedScroll(android.view.View,int,int,int,int,int[])
+com.dexterous.flutterlocalnotifications.models.BitmapSource: com.dexterous.flutterlocalnotifications.models.BitmapSource[] $values()
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+com.dexterous.flutterlocalnotifications.models.styles.InboxStyleInformation: InboxStyleInformation(java.lang.Boolean,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.lang.String,java.lang.Boolean,java.util.ArrayList,java.lang.Boolean)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean onRequestPermissionsResult(int,java.lang.String[],int[])
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.content.Intent getLaunchIntent(android.content.Context)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+androidx.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer$PerImage dequeueImage()
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary(android.content.Context)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+io.flutter.embedding.android.FlutterView: void setWindowInfoListenerDisplayFeatures(androidx.window.layout.WindowLayoutInfo)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+com.google.gson.ToNumberPolicy: com.google.gson.ToNumberPolicy valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.dexterous.flutterlocalnotifications.models.RepeatInterval: com.dexterous.flutterlocalnotifications.models.RepeatInterval valueOf(java.lang.String)
+androidx.core.app.NotificationCompat$CallStyle$Api31Impl: android.app.Notification$Action$Builder setAuthenticationRequired(android.app.Notification$Action$Builder,boolean)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Drawable createAdaptiveIconDrawable(android.graphics.drawable.Drawable,android.graphics.drawable.Drawable)
+androidx.window.extensions.core.util.function.Predicate: boolean test(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+io.flutter.view.TextureRegistry$SurfaceProducer: void scheduleFrame()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void initialize(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setInboxStyle(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readChannelInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.core.view.ViewCompat$Api21Impl: java.lang.String getTransitionName(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+android.support.v4.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.graphics.drawable.IconCompat getIconFromSource(android.content.Context,java.lang.Object,com.dexterous.flutterlocalnotifications.models.IconSource)
+androidx.core.app.NotificationCompatBuilder$Api28Impl: android.app.Notification$Builder addPerson(android.app.Notification$Builder,android.app.Person)
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy[] values()
+com.dexterous.flutterlocalnotifications.models.styles.MessagingStyleInformation: MessagingStyleInformation(com.dexterous.flutterlocalnotifications.models.PersonDetails,java.lang.String,java.lang.Boolean,java.util.ArrayList,java.lang.Boolean,java.lang.Boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readSoundInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+com.dexterous.flutterlocalnotifications.models.SoundSource: com.dexterous.flutterlocalnotifications.models.SoundSource[] $values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void finalize()
+com.dexterous.flutterlocalnotifications.models.BitmapSource: BitmapSource(java.lang.String,int)
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+androidx.core.app.NotificationManagerCompat$Api26Impl: void createNotificationChannels(android.app.NotificationManager,java.util.List)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+androidx.core.view.ViewCompat$Api21Impl: android.content.res.ColorStateList getBackgroundTintList(android.view.View)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreScroll(android.view.View,int,int,int[],int[])
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+androidx.core.app.NotificationManagerCompat$Api26Impl: void createNotificationChannel(android.app.NotificationManager,android.app.NotificationChannel)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateRefreshRate(float)
+com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver: ScheduledNotificationReceiver()
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode[] values()
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setSettingsText(android.app.Notification$Builder,java.lang.CharSequence)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.dexterous.flutterlocalnotifications.models.PersonDetails: PersonDetails(java.lang.Boolean,java.lang.Object,com.dexterous.flutterlocalnotifications.models.IconSource,java.lang.Boolean,java.lang.String,java.lang.String,java.lang.String)
+androidx.core.app.NotificationManagerCompat$Api24Impl: boolean areNotificationsEnabled(android.app.NotificationManager)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreFling(android.view.View,float,float)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetBottom(android.view.DisplayCutout)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setSortKey(android.app.Notification$Builder,java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setCanScheduleExactNotifications(io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidRawSoundResource(io.flutter.plugin.common.MethodChannel$Result,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String,java.util.List)
+com.dexterous.flutterlocalnotifications.models.RepeatInterval: com.dexterous.flutterlocalnotifications.models.RepeatInterval[] $values()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: long id()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setProgress(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void setTintMode(android.graphics.drawable.Drawable,android.graphics.PorterDuff$Mode)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void setHotspotBounds(android.graphics.drawable.Drawable,int,int,int,int)
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource[] $values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void applyGrouping(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.view.TextureRegistry$SurfaceProducer: void release()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.graphics.Bitmap getBitmapFromSource(android.content.Context,java.lang.Object,com.dexterous.flutterlocalnotifications.models.BitmapSource)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readBigPictureStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+io.flutter.view.TextureRegistry$SurfaceProducer: long id()
+androidx.core.app.NotificationCompat$MessagingStyle$Api24Impl: android.app.Notification$MessagingStyle createMessagingStyle(java.lang.CharSequence)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC: void $default$setOnFrameConsumedListener(io.flutter.view.TextureRegistry$SurfaceTextureEntry,io.flutter.view.TextureRegistry$OnFrameConsumedListener)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.media.Image acquireLatestImage()
+com.dexterous.flutterlocalnotifications.models.MessageDetails: MessageDetails(java.lang.String,java.lang.Long,com.dexterous.flutterlocalnotifications.models.PersonDetails,java.lang.String,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: com.dexterous.flutterlocalnotifications.models.ScheduleMode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+androidx.core.view.ViewCompat$Api21Impl: float getZ(android.view.View)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getNotificationChannels(io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+io.flutter.view.TextureRegistry$SurfaceProducer: int getWidth()
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityPaneTitle(android.view.View,java.lang.CharSequence)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getActiveNotifications(io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void createNotificationChannel(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedScheduleNextNotificationMatchingDateComponents(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: android.app.PendingIntent getBroadcastPendingIntent(android.content.Context,int,android.content.Intent)
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void createNotificationChannelGroup(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int getHeight()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.core.app.ActivityCompat$Api23Impl: boolean shouldShowRequestPermissionRationale(android.app.Activity,java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void markDirty()
+com.dexterous.flutterlocalnotifications.models.IconSource: com.dexterous.flutterlocalnotifications.models.IconSource[] values()
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void endRearDisplaySession()
+androidx.core.app.NotificationCompat$Builder$Api21Impl: android.media.AudioAttributes$Builder setContentType(android.media.AudioAttributes$Builder,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setMessagingStyle(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: com.dexterous.flutterlocalnotifications.models.PersonDetails readPersonDetails(java.util.Map)
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void requestNotificationsPermission(com.dexterous.flutterlocalnotifications.PermissionRequestListener)
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.String access$000(com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory)
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readBigTextStyleInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map,com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture,java.lang.Runnable)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setColorized(android.app.Notification$Builder,boolean)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: NotificationDetails()
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy valueOf(java.lang.String)
+androidx.core.content.res.ResourcesCompat$Api21Impl: android.graphics.drawable.Drawable getDrawable(android.content.res.Resources,int,android.content.res.Resources$Theme)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setCustomContentView(android.app.Notification$Builder,android.widget.RemoteViews)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void deleteNotificationChannelGroup(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction[] values()
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin$PermissionRequestProgress: com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin$PermissionRequestProgress valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: com.dexterous.flutterlocalnotifications.models.NotificationStyle[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidIcon(io.flutter.plugin.common.MethodChannel$Result,java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: void release()
+androidx.core.app.NotificationManagerCompat$Api26Impl: java.lang.String getId(android.app.NotificationChannelGroup)
+androidx.core.app.NotificationCompat$CallStyle$Api23Impl: void setLargeIcon(android.app.Notification$Builder,android.graphics.drawable.Icon)
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.models.RepeatInterval: com.dexterous.flutterlocalnotifications.models.RepeatInterval[] values()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.core.app.NotificationCompat$CallStyle$Api31Impl: android.app.Notification$CallStyle setDeclineButtonColorHint(android.app.Notification$CallStyle,int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: java.lang.Class access$100(com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void getActiveNotificationMessagingStyle(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readLedInformation(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getVMServiceUri()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setVibrationPattern(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onReattachedToActivityForConfigChanges(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setCustomBigContentView(android.app.Notification$Builder,android.widget.RemoteViews)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType[] values()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintMode(android.view.View,android.graphics.PorterDuff$Mode)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numTrims()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void areNotificationsEnabled(io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.app.NotificationCompat$MessagingStyle$Api28Impl: android.app.Notification$MessagingStyle createMessagingStyle(android.app.Person)
+com.dexterous.flutterlocalnotifications.models.RepeatInterval: RepeatInterval(java.lang.String,int)
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory of(java.lang.Class)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.graphics.Insets$Api29Impl: android.graphics.Insets of(int,int,int,int)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifier(int)
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numImageReaders()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.google.gson.TypeAdapter create(com.google.gson.Gson,com.google.gson.reflect.TypeToken)
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+com.dexterous.flutterlocalnotifications.models.NotificationDetails: void readColor(com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.util.Map)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void pendingNotificationRequests(io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Builder setLocusId(android.app.Notification$Builder,java.lang.Object)
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setStyle(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+androidx.core.app.NotificationCompat$Style$Api24Impl: void setChronometerCountDown(android.widget.RemoteViews,int,boolean)
+androidx.core.view.ViewCompat$Api21Impl: void setNestedScrollingEnabled(android.view.View,boolean)
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.util.Map describeIcon(androidx.core.graphics.drawable.IconCompat)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+androidx.core.app.NotificationCompat$MessagingStyle$Message$Api28Impl: android.app.Notification$MessagingStyle$Message createMessage(java.lang.CharSequence,long,android.app.Person)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+androidx.profileinstaller.ProfileVerifier$Api33Impl: android.content.pm.PackageInfo getPackageInfo(android.content.pm.PackageManager,android.content.Context)
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setupAllowWhileIdleAlarm(com.dexterous.flutterlocalnotifications.models.NotificationDetails,android.app.AlarmManager,long,android.app.PendingIntent)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setVisibility(android.app.Notification$Builder,int)
+androidx.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.core.app.AlarmManagerCompat$Api21Impl: android.app.AlarmManager$AlarmClockInfo createAlarmClockInfo(long,android.app.PendingIntent)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String,java.util.List)
+androidx.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.view.TextureRegistry$SurfaceTextureEntry: void setOnTrimMemoryListener(io.flutter.view.TextureRegistry$OnTrimMemoryListener)
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin$PermissionRequestProgress: com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin$PermissionRequestProgress[] values()
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+androidx.media.AudioAttributesImplBase: AudioAttributesImplBase()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.util.HashMap getMappedNotificationChannel(android.app.NotificationChannel)
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+io.flutter.embedding.android.KeyData$DeviceType: io.flutter.embedding.android.KeyData$DeviceType valueOf(java.lang.String)
+androidx.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void cancelAllNotifications(io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.app.AlarmManagerCompat$Api23Impl: void setExactAndAllowWhileIdle(android.app.AlarmManager,int,long,android.app.PendingIntent)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setBigPictureStyle(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+androidx.core.app.NotificationCompat$MessagingStyle$Message$Api24Impl: android.app.Notification$MessagingStyle$Message setData(android.app.Notification$MessagingStyle$Message,java.lang.String,android.net.Uri)
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void onImage(android.media.ImageReader,android.media.Image)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: boolean canApplyTheme(android.graphics.drawable.Drawable)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setLights(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.core.view.ViewCompat$Api28Impl: void addOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails: com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails fromNotificationDetails(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: com.dexterous.flutterlocalnotifications.models.DateTimeComponents[] values()
+androidx.core.app.RemoteInput$Api26Impl: android.app.RemoteInput$Builder setAllowDataType(android.app.RemoteInput$Builder,java.lang.String,boolean)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+androidx.core.app.NotificationCompat$BigPictureStyle$Api31Impl: void setBigPicture(android.app.Notification$BigPictureStyle,android.graphics.drawable.Icon)
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.core.content.ContextCompat$Api26Impl: android.content.Intent registerReceiver(android.content.Context,android.content.BroadcastReceiver,android.content.IntentFilter,java.lang.String,android.os.Handler,int)
+androidx.core.view.ViewCompat$Api21Impl: void setTransitionName(android.view.View,java.lang.String)
+com.example.todo.MainActivity: MainActivity()
+io.flutter.view.TextureRegistry$SurfaceProducer: void setSize(int,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageTextureRegistryEntry: FlutterRenderer$ImageTextureRegistryEntry(io.flutter.embedding.engine.renderer.FlutterRenderer,long)
+androidx.core.app.NotificationCompat$MessagingStyle$Message$Api24Impl: android.app.Notification$MessagingStyle$Message createMessage(java.lang.CharSequence,long,java.lang.CharSequence)
+androidx.core.app.NotificationCompat$CallStyle$Api28Impl: android.os.Parcelable castToParcelable(android.app.Person)
+androidx.core.app.NotificationCompat$CallStyle$Api31Impl: android.app.Notification$CallStyle setVerificationText(android.app.Notification$CallStyle,java.lang.CharSequence)
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken[] values()
+androidx.window.core.VerificationMode: androidx.window.core.VerificationMode[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver: void onReceive(android.content.Context,android.content.Intent)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory: com.dexterous.flutterlocalnotifications.RuntimeTypeAdapterFactory of(java.lang.Class,java.lang.String)
+io.flutter.view.TextureRegistry$SurfaceProducer: int getHeight()
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: FlutterRenderer$ImageReaderSurfaceProducer(io.flutter.embedding.engine.renderer.FlutterRenderer,long)
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+io.flutter.embedding.engine.FlutterJNI: void registerImageTexture(long,io.flutter.view.TextureRegistry$ImageConsumer)
+io.flutter.embedding.android.KeyData$DeviceType: io.flutter.embedding.android.KeyData$DeviceType[] values()
+androidx.core.content.res.ResourcesCompat$Api21Impl: android.graphics.drawable.Drawable getDrawableForDensity(android.content.res.Resources,int,int,android.content.res.Resources$Theme)
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void cancel(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+io.flutter.plugin.platform.PlatformViewWrapper: void setLayoutParams(android.widget.FrameLayout$LayoutParams)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setVisibility(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.models.NotificationChannelAction: com.dexterous.flutterlocalnotifications.models.NotificationChannelAction[] $values()
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void updateDisplayMetrics(int,float,float,float)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState valueOf(java.lang.String)
+androidx.media.AudioAttributesCompat: AudioAttributesCompat()
+com.dexterous.flutterlocalnotifications.models.Time: com.dexterous.flutterlocalnotifications.models.Time from(java.util.Map)
+io.flutter.plugins.pathprovider.PathProviderPlugin: PathProviderPlugin()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean hasInvalidBigPictureResources(io.flutter.plugin.common.MethodChannel$Result,com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+androidx.core.app.AppOpsManagerCompat$Api29Impl: android.app.AppOpsManager getSystemService(android.content.Context)
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: com.dexterous.flutterlocalnotifications.models.ScheduleMode[] $values()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void waitOnFence(android.media.Image)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action$Builder addExtras(android.app.Notification$Action$Builder,android.os.Bundle)
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void setTint(android.graphics.drawable.Drawable,int)
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: java.lang.String getResPackage(java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+androidx.core.app.NotificationManagerCompat$Api24Impl: int getImportance(android.app.NotificationManager)
+com.dexterous.flutterlocalnotifications.models.styles.DefaultStyleInformation: DefaultStyleInformation(java.lang.Boolean,java.lang.Boolean)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setGroup(android.app.Notification$Builder,java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+androidx.core.app.AppOpsManagerCompat$Api23Impl: java.lang.String permissionToOp(java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void disableFenceForTest()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: androidx.core.app.Person buildPerson(android.content.Context,com.dexterous.flutterlocalnotifications.models.PersonDetails)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+androidx.window.layout.adapter.sidecar.DistinctElementSidecarCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+androidx.core.app.NotificationCompat$MessagingStyle$Api24Impl: android.app.Notification$MessagingStyle setConversationTitle(android.app.Notification$MessagingStyle,java.lang.CharSequence)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setGroupSummary(android.app.Notification$Builder,boolean)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: boolean onNewIntent(android.content.Intent)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+com.dexterous.flutterlocalnotifications.models.NotificationStyle: com.dexterous.flutterlocalnotifications.models.NotificationStyle[] $values()
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: void scheduleFrame()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.util.Map describePerson(androidx.core.app.Person)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void stopForegroundService(io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.app.AlarmManagerCompat$Api21Impl: void setAlarmClock(android.app.AlarmManager,java.lang.Object,android.app.PendingIntent)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onDetachedFromActivity()
+androidx.media.AudioAttributesImplApi26: AudioAttributesImplApi26()
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void deleteNotificationChannel(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.app.RemoteInput$Api26Impl: java.util.Set getAllowedDataTypes(java.lang.Object)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setSound(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void zonedScheduleNotification(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationDetails,java.lang.Boolean)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.core.app.NotificationCompat$MessagingStyle$Api28Impl: android.app.Notification$MessagingStyle setGroupConversation(android.app.Notification$MessagingStyle,boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void startForegroundService(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void onMethodCall(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+androidx.core.app.RemoteInput$Api26Impl: void addDataResultToIntent(androidx.core.app.RemoteInput,android.content.Intent,java.util.Map)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.Boolean canCreateNotificationChannel(android.content.Context,com.dexterous.flutterlocalnotifications.models.NotificationChannelDetails)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat computeSystemWindowInsets(android.view.View,androidx.core.view.WindowInsetsCompat,android.graphics.Rect)
+androidx.window.extensions.core.util.function.Consumer: void accept(java.lang.Object)
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action$Builder createBuilder(int,java.lang.CharSequence,android.app.PendingIntent)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setCategory(com.dexterous.flutterlocalnotifications.models.NotificationDetails,androidx.core.app.NotificationCompat$Builder)
+io.flutter.embedding.engine.FlutterJNI: void lambda$decodeImage$0(long,android.graphics.ImageDecoder,android.graphics.ImageDecoder$ImageInfo,android.graphics.ImageDecoder$Source)
+androidx.core.app.NotificationCompat$MessagingStyle$Api26Impl: android.app.Notification$MessagingStyle addHistoricMessage(android.app.Notification$MessagingStyle,android.app.Notification$MessagingStyle$Message)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setPublicVersion(android.app.Notification$Builder,android.app.Notification)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+android.support.v4.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+androidx.core.app.NotificationCompat$BigPictureStyle$Api23Impl: void setBigLargeIcon(android.app.Notification$BigPictureStyle,android.graphics.drawable.Icon)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+androidx.core.content.ContextCompat$Api23Impl: java.lang.Object getSystemService(android.content.Context,java.lang.Class)
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: int numImages()
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: java.lang.String getNextFireDateMatchingDateTimeComponents(com.dexterous.flutterlocalnotifications.models.NotificationDetails)
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+androidx.core.app.NotificationCompat$BigPictureStyle$Api31Impl: void showBigPictureWhenCollapsed(android.app.Notification$BigPictureStyle,boolean)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.core.app.NotificationCompat$Builder$Api21Impl: android.media.AudioAttributes build(android.media.AudioAttributes$Builder)
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+io.flutter.plugin.platform.PlatformViewWrapper: int getRenderTargetWidth()
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+androidx.core.app.NotificationCompat$CallStyle$Api23Impl: android.os.Parcelable castToParcelable(android.graphics.drawable.Icon)
+com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin: void setMediaStyle(androidx.core.app.NotificationCompat$Builder)
+androidx.core.app.NotificationCompat$CallStyle$Api31Impl: android.app.Notification$CallStyle forIncomingCall(android.app.Person,android.app.PendingIntent,android.app.PendingIntent)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Drawable loadDrawable(android.graphics.drawable.Icon,android.content.Context)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformView,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,android.view.View$OnFocusChangeListener)
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+com.dexterous.flutterlocalnotifications.models.DateTimeComponents: DateTimeComponents(java.lang.String,int)
+androidx.core.app.NotificationManagerCompat$Api26Impl: java.util.List getNotificationChannelGroups(android.app.NotificationManager)
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.renderer.FlutterRenderer$ImageReaderSurfaceProducer: android.view.Surface getSurface()
+androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements: void removeRearDisplayStatusListener(androidx.window.extensions.core.util.function.Consumer)
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.window.layout.adapter.sidecar.SidecarCompat$TranslatingCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+com.dexterous.flutterlocalnotifications.models.ScheduleMode: boolean useExactAlarm()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState[] values()
+androidx.core.view.ViewCompat$Api28Impl: java.lang.Object requireViewById(android.view.View,int)
+androidx.core.graphics.drawable.DrawableCompat$Api21Impl: void inflate(android.graphics.drawable.Drawable,android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)

@@ -1,0 +1,318 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [:flutter_local_notifications] C:\Users\noelj\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-10:12
+MERGED from [:path_provider_android] C:\Users\noelj\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.17\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\noelj\.gradle\caches\transforms-3\ff0eb3ececee696e01dca410e0c2e740\transformed\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\f993969faf5fe9e1133d8fcd5190d401\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\noelj\.gradle\caches\transforms-3\8f3974ad5fe8dedcea26dc7136154ea5\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\noelj\.gradle\caches\transforms-3\a5744ebcc24701949181b2a60d1af4ad\transformed\jetified-activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\27e19775c2daf8ec8f036e9789a7b716\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\312b581db0f64b5548ac9755ef4b430a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\8bd4a3183662766f40907cffd3109e92\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\a9870adebaa14311c8f0bc541b55dd89\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\b7e476bd3c20d4e4924454fa15b40a5f\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\0ede97aa874d8a33d199afadb16bd5ec\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\noelj\.gradle\caches\transforms-3\48d400f754632ec68e01ffa0565b7971\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\835d4e7939a423734169de45417c9507\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\1d69c07be4a859d52615282d668cbf3d\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\dfd52d922c82ed57b40d002e5d88f799\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\5003abb2d132eb5070f160aa81aadba1\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\c215495a90bf6b19434b15b8baa82bc8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\cd46c9792fa712c4955cd190f905eabe\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\noelj\.gradle\caches\transforms-3\5b996e433f8a29c8c0988390e36ca41d\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\8a0ae19ddc4bf3ee8f495376aebbbaa3\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\cf21e3de6172e40feb3caa02b38ffc27\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\104329aff8c4e890582dacc4da3241dc\transformed\jetified-core-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\noelj\.gradle\caches\transforms-3\d17262d1241777ca4dc0633cf8c315bc\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\noelj\.gradle\caches\transforms-3\b797c3fbb5c8f63f6c41a7e26875a011\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:4:5-76
+MERGED from [:flutter_local_notifications] C:\Users\noelj\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:5-77
+MERGED from [:flutter_local_notifications] C:\Users\noelj\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:4:22-74
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.USE_EXACT_ALARM
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:8:5-65
+MERGED from [:flutter_local_notifications] C:\Users\noelj\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-66
+MERGED from [:flutter_local_notifications] C:\Users\noelj\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:9:22-65
+application
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:11:5-48:19
+INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:11:5-48:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\c215495a90bf6b19434b15b8baa82bc8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\c215495a90bf6b19434b15b8baa82bc8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\cf21e3de6172e40feb3caa02b38ffc27\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\cf21e3de6172e40feb3caa02b38ffc27\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:12:9-37
+	android:icon
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:13:9-43
+	android:usesCleartextTraffic
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:14:9-45
+activity#com.example.todo.MainActivity
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:16:9-28:20
+	android:launchMode
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:23:13-55
+	android:exported
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:18:13-36
+	android:configChanges
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:21:13-163
+	android:theme
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:26:27-74
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:exported
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:31:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:33:13-38:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:34:17-78
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:34:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:35:17-83
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:35:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:36:25-79
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:37:17-75
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:37:27-73
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:41:9-43:39
+	android:exported
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:42:13-97
+meta-data#flutterEmbedding
+ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:45:9-47:32
+	android:value
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:47:13-30
+	android:name
+		ADDED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml:46:13-44
+uses-sdk
+INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_local_notifications] C:\Users\noelj\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\noelj\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\noelj\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.17\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\noelj\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.17\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.1.0] C:\Users\noelj\.gradle\caches\transforms-3\ff0eb3ececee696e01dca410e0c2e740\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\noelj\.gradle\caches\transforms-3\ff0eb3ececee696e01dca410e0c2e740\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\f993969faf5fe9e1133d8fcd5190d401\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\f993969faf5fe9e1133d8fcd5190d401\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\noelj\.gradle\caches\transforms-3\8f3974ad5fe8dedcea26dc7136154ea5\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\noelj\.gradle\caches\transforms-3\8f3974ad5fe8dedcea26dc7136154ea5\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\noelj\.gradle\caches\transforms-3\a5744ebcc24701949181b2a60d1af4ad\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\noelj\.gradle\caches\transforms-3\a5744ebcc24701949181b2a60d1af4ad\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\27e19775c2daf8ec8f036e9789a7b716\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\27e19775c2daf8ec8f036e9789a7b716\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\312b581db0f64b5548ac9755ef4b430a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\312b581db0f64b5548ac9755ef4b430a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\8bd4a3183662766f40907cffd3109e92\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\8bd4a3183662766f40907cffd3109e92\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\a9870adebaa14311c8f0bc541b55dd89\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\a9870adebaa14311c8f0bc541b55dd89\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\b7e476bd3c20d4e4924454fa15b40a5f\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\b7e476bd3c20d4e4924454fa15b40a5f\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\0ede97aa874d8a33d199afadb16bd5ec\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\0ede97aa874d8a33d199afadb16bd5ec\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\noelj\.gradle\caches\transforms-3\48d400f754632ec68e01ffa0565b7971\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\noelj\.gradle\caches\transforms-3\48d400f754632ec68e01ffa0565b7971\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\835d4e7939a423734169de45417c9507\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\835d4e7939a423734169de45417c9507\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\1d69c07be4a859d52615282d668cbf3d\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\1d69c07be4a859d52615282d668cbf3d\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\dfd52d922c82ed57b40d002e5d88f799\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\dfd52d922c82ed57b40d002e5d88f799\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\5003abb2d132eb5070f160aa81aadba1\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\5003abb2d132eb5070f160aa81aadba1\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\c215495a90bf6b19434b15b8baa82bc8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\c215495a90bf6b19434b15b8baa82bc8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\cd46c9792fa712c4955cd190f905eabe\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\cd46c9792fa712c4955cd190f905eabe\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\noelj\.gradle\caches\transforms-3\5b996e433f8a29c8c0988390e36ca41d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\noelj\.gradle\caches\transforms-3\5b996e433f8a29c8c0988390e36ca41d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\8a0ae19ddc4bf3ee8f495376aebbbaa3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\8a0ae19ddc4bf3ee8f495376aebbbaa3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\cf21e3de6172e40feb3caa02b38ffc27\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\cf21e3de6172e40feb3caa02b38ffc27\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\104329aff8c4e890582dacc4da3241dc\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\noelj\.gradle\caches\transforms-3\104329aff8c4e890582dacc4da3241dc\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\noelj\.gradle\caches\transforms-3\d17262d1241777ca4dc0633cf8c315bc\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\noelj\.gradle\caches\transforms-3\d17262d1241777ca4dc0633cf8c315bc\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\noelj\.gradle\caches\transforms-3\b797c3fbb5c8f63f6c41a7e26875a011\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\noelj\.gradle\caches\transforms-3\b797c3fbb5c8f63f6c41a7e26875a011\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\noelj\Desktop\noel\todo\android\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\noelj\.gradle\caches\transforms-3\039a817f8a505155fe1ed245df574d62\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\c215495a90bf6b19434b15b8baa82bc8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noelj\.gradle\caches\transforms-3\c215495a90bf6b19434b15b8baa82bc8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\noelj\.gradle\caches\transforms-3\f77322a8fa619a412040c74fd1d60bda\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\noelj\.gradle\caches\transforms-3\5f19d8fd1c84109c3f824729266d6a87\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\noelj\.gradle\caches\transforms-3\7a77da76a57c62fad70c1304df4dfb20\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
