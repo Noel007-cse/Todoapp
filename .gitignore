@@ -104,3 +104,6 @@ lib/generated_plugin_registrant.dart
 .env
 .env.*
 !.env.example
+
+# API keys / secrets
+lib/core/config/api_config.dart

@@ -1,8 +1,8 @@
 name: todo_app
-description: A beautiful and functional To-Do list app with productivity tracking.
+description: Mindful Flow — Your AI-powered daily productivity assistant.
 publish_to: 'none'
 
-version: 1.0.0+1
+version: 2.0.0+1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -24,18 +24,24 @@ dependencies:
   # Charts & Analytics
   fl_chart: ^0.65.0
 
-  # Notifications (kept for permission request only)
+  # Notifications
   flutter_local_notifications: ^17.2.4
   timezone: ^0.9.0
 
-  # 🔔 Android system intents — opens Clock & Calendar apps
+  # Android system intents
   android_intent_plus: ^4.0.2
 
-  # 🌐 Open URLs (Google Calendar web fallback)
+  # Open URLs
   url_launcher: ^6.2.5
 
   # UI/Animation
   lottie: ^2.4.0
+  google_fonts: ^6.1.0
+  shimmer: ^3.0.0
+  animated_text_kit: ^4.2.2
+
+  # AI / Networking
+  http: ^1.2.0
 
   # Other utilities
   uuid: ^4.0.0
@@ -52,7 +58,7 @@ flutter_launcher_icons:
   android: true
   ios: true
   image_path: "assets/icon.png"
-  adaptive_icon_background: "#EDF6F9"
+  adaptive_icon_background: "#0A0E21"
   adaptive_icon_foreground: "assets/icon.png"
   min_sdk_android: 21
 

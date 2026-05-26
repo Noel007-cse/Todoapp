@@ -1,41 +1,59 @@
-// lib/main.dart
+// lib/main.dart — Mindful Flow v2
 
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:provider/provider.dart';
 
 import 'data/local/hive_models.dart';
 import 'core/theme/app_theme.dart';
+import 'core/theme/app_colors.dart';
 import 'core/notification/notification_service.dart';
 import 'presentation/providers/theme_provider.dart';
 import 'presentation/providers/task_provider.dart';
 import 'presentation/providers/analytics_provider.dart';
-import 'presentation/screens/home_screen.dart';
-import 'presentation/screens/my_lists_screen.dart';
-import 'presentation/screens/weekly_focus_screen.dart';
-import 'presentation/screens/archive_screen.dart';
+import 'presentation/providers/user_provider.dart';
+import 'presentation/providers/habit_provider.dart';
+import 'presentation/providers/ai_chat_provider.dart';
+import 'presentation/screens/day_screen.dart';
+import 'presentation/screens/growth_screen.dart';
+import 'presentation/screens/focus_screen.dart';
+import 'presentation/screens/life_screen.dart';
+import 'presentation/screens/flow_screen.dart';
 import 'presentation/screens/add_edit_task_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  // 🔥 Initialize Hive
+  // Force dark status bar
+  SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
+    statusBarColor: Colors.transparent,
+    statusBarIconBrightness: Brightness.light,
+    systemNavigationBarColor: AppColors.bgSecondary,
+  ));
+
+  // Initialize Hive
   await Hive.initFlutter();
   Hive.registerAdapter(SubtaskAdapter());
   Hive.registerAdapter(TaskAdapter());
   Hive.registerAdapter(TaskListAdapter());
+  Hive.registerAdapter(HabitAdapter());
+  Hive.registerAdapter(UserProfileAdapter());
+  Hive.registerAdapter(MoodEntryAdapter());
+  Hive.registerAdapter(JournalEntryAdapter());
+  Hive.registerAdapter(ChatMessageAdapter());
 
   await Hive.openBox<Task>('tasks');
   await Hive.openBox<TaskList>('lists');
 
-  // 🔔 Initialize Notifications (handles permissions + timezone)
+  // Initialize Notifications
   await NotificationService.instance.initialize();
 
-  runApp(const MyApp());
+  runApp(const MindfulFlowApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class MindfulFlowApp extends StatelessWidget {
+  const MindfulFlowApp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -44,116 +62,87 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => ThemeProvider()),
         ChangeNotifierProvider(create: (_) => TaskProvider()),
         ChangeNotifierProvider(create: (_) => AnalyticsProvider()),
+        ChangeNotifierProvider(create: (_) => UserProvider()),
+        ChangeNotifierProvider(create: (_) => HabitProvider()),
+        ChangeNotifierProvider(create: (_) => AIChatProvider()),
       ],
-      child: Consumer<ThemeProvider>(
-        builder: (context, themeProvider, _) {
-          return MaterialApp(
-            title: 'Mindful Flow',
-            debugShowCheckedModeBanner: false,
-            theme: AppTheme.lightTheme,
-            darkTheme: AppTheme.darkTheme,
-            themeMode:
-                themeProvider.isDarkMode ? ThemeMode.dark : ThemeMode.light,
-            home: const MainNavigationScreen(),
-          );
-        },
+      child: MaterialApp(
+        title: 'Mindful Flow',
+        debugShowCheckedModeBanner: false,
+        theme: AppTheme.darkTheme,
+        darkTheme: AppTheme.darkTheme,
+        themeMode: ThemeMode.dark,
+        home: const MainNavigationScreen(),
       ),
     );
   }
 }
 
-/// ─── Main Navigation ────────────────────────────────────────────────────────
+/// ─── 5-Tab Navigation ───────────────────────────────────────────────────────
 class MainNavigationScreen extends StatefulWidget {
   const MainNavigationScreen({super.key});
-
   @override
-  State<MainNavigationScreen> createState() =>
-      _MainNavigationScreenState();
+  State<MainNavigationScreen> createState() => _MainNavigationScreenState();
 }
 
 class _MainNavigationScreenState extends State<MainNavigationScreen> {
   int _currentIndex = 0;
 
   final List<Widget> _screens = const [
-    HomeScreen(),
-    MyListsScreen(),
-    WeeklyFocusScreen(),
-    ArchiveScreen(),
+    DayScreen(),
+    GrowthScreen(),
+    FocusScreen(),
+    LifeScreen(),
+    FlowScreen(),
   ];
 
   void _showAddTask(BuildContext context) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        fullscreenDialog: true,
-        builder: (_) => const AddEditTaskScreen(),
-      ),
-    );
+    Navigator.push(context, MaterialPageRoute(
+      fullscreenDialog: true, builder: (_) => const AddEditTaskScreen()));
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: IndexedStack(
-        index: _currentIndex,
-        children: _screens,
-      ),
-      bottomNavigationBar: _buildBottomNav(),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () => _showAddTask(context),
-        backgroundColor: AppTheme.primaryColor,
-        elevation: 4,
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(18),
-        ),
-        child: const Icon(Icons.add, color: Colors.white, size: 28),
-      ),
-      floatingActionButtonLocation:
-          FloatingActionButtonLocation.centerDocked,
-    );
-  }
-
-  Widget _buildBottomNav() {
-    return BottomAppBar(
-      color: Colors.white,
-      elevation: 8,
-      shape: const CircularNotchedRectangle(),
-      notchMargin: 8,
-      child: SizedBox(
-        height: 60,
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceAround,
-          children: [
-            _NavItem(
-              icon: Icons.wb_sunny_outlined,
-              activeIcon: Icons.wb_sunny,
-              label: 'Day',
-              isActive: _currentIndex == 0,
-              onTap: () => setState(() => _currentIndex = 0),
-            ),
-            _NavItem(
-              icon: Icons.list_alt_outlined,
-              activeIcon: Icons.list_alt,
-              label: 'Lists',
-              isActive: _currentIndex == 1,
-              onTap: () => setState(() => _currentIndex = 1),
-            ),
-            const SizedBox(width: 60), // Space for FAB
-            _NavItem(
-              icon: Icons.calendar_month_outlined,
-              activeIcon: Icons.calendar_month,
-              label: 'Schedule',
-              isActive: _currentIndex == 2,
-              onTap: () => setState(() => _currentIndex = 2),
-            ),
-            _NavItem(
-              icon: Icons.archive_outlined,
-              activeIcon: Icons.archive,
-              label: 'Archive',
-              isActive: _currentIndex == 3,
-              onTap: () => setState(() => _currentIndex = 3),
-            ),
+      body: IndexedStack(index: _currentIndex, children: _screens),
+      bottomNavigationBar: Container(
+        decoration: BoxDecoration(
+          color: AppColors.bgSecondary,
+          border: Border(top: BorderSide(color: AppColors.cardBorder, width: 0.5)),
+          boxShadow: [
+            BoxShadow(color: AppColors.primary.withOpacity(0.05), blurRadius: 20, offset: const Offset(0, -4)),
           ],
+        ),
+        child: SafeArea(
+          child: SizedBox(
+            height: 64,
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              children: [
+                _NavItem(icon: Icons.grid_view_rounded, label: 'Day',
+                  isActive: _currentIndex == 0, onTap: () => setState(() => _currentIndex = 0)),
+                _NavItem(icon: Icons.trending_up_rounded, label: 'Growth',
+                  isActive: _currentIndex == 1, onTap: () => setState(() => _currentIndex = 1)),
+                // Center FAB
+                GestureDetector(
+                  onTap: () => _showAddTask(context),
+                  child: Container(
+                    width: 48, height: 48,
+                    decoration: BoxDecoration(
+                      gradient: AppColors.primaryGradient,
+                      borderRadius: BorderRadius.circular(16),
+                      boxShadow: [BoxShadow(color: AppColors.primary.withOpacity(0.3), blurRadius: 12, offset: const Offset(0, 4))],
+                    ),
+                    child: const Icon(Icons.add, color: AppColors.bg, size: 26),
+                  ),
+                ),
+                _NavItem(icon: Icons.chat_bubble_outline_rounded, label: 'Life',
+                  isActive: _currentIndex == 3, onTap: () => setState(() => _currentIndex = 3)),
+                _NavItem(icon: Icons.water_drop_outlined, label: 'Flow',
+                  isActive: _currentIndex == 4, onTap: () => setState(() => _currentIndex = 4)),
+              ],
+            ),
+          ),
         ),
       ),
     );
@@ -162,18 +151,11 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
 
 class _NavItem extends StatelessWidget {
   final IconData icon;
-  final IconData activeIcon;
   final String label;
   final bool isActive;
   final VoidCallback onTap;
 
-  const _NavItem({
-    required this.icon,
-    required this.activeIcon,
-    required this.label,
-    required this.isActive,
-    required this.onTap,
-  });
+  const _NavItem({required this.icon, required this.label, required this.isActive, required this.onTap});
 
   @override
   Widget build(BuildContext context) {
@@ -181,29 +163,23 @@ class _NavItem extends StatelessWidget {
       onTap: onTap,
       behavior: HitTestBehavior.opaque,
       child: SizedBox(
-        width: 72,
+        width: 60,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Icon(
-              isActive ? activeIcon : icon,
-              color: isActive
-                  ? AppTheme.primaryColor
-                  : AppTheme.primaryColor.withOpacity(0.4),
-              size: 22,
+            AnimatedContainer(
+              duration: const Duration(milliseconds: 200),
+              padding: const EdgeInsets.all(6),
+              decoration: BoxDecoration(
+                color: isActive ? AppColors.primary.withOpacity(0.15) : Colors.transparent,
+                borderRadius: BorderRadius.circular(12),
+              ),
+              child: Icon(icon, color: isActive ? AppColors.primary : AppColors.textMuted, size: 22),
             ),
             const SizedBox(height: 2),
-            Text(
-              label,
-              style: TextStyle(
-                fontSize: 11,
-                fontWeight:
-                    isActive ? FontWeight.w700 : FontWeight.w500,
-                color: isActive
-                    ? AppTheme.primaryColor
-                    : AppTheme.primaryColor.withOpacity(0.4),
-              ),
-            ),
+            Text(label, style: TextStyle(
+              fontSize: 10, fontWeight: isActive ? FontWeight.w700 : FontWeight.w500,
+              color: isActive ? AppColors.primary : AppColors.textMuted)),
           ],
         ),
       ),
